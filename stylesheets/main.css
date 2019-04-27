@@ -1,0 +1,33 @@
+#header{
+  background-color: #a90000;
+  padding: 25px 10px;
+}
+.headertext{
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#navbar{
+  background-color: #323233;
+  padding: 25px 10px;
+}
+.navbartext{
+  float: right;
+  color: white;
+  font-family: sans-serif;
+}
+.maintext{
+  padding-left: 35px;
+  font-family: sans-serif;
+}
+.phototext{
+  font-weight: bold;
+  font-size: 20;
+  font-family: sans-serif;
+}
+#footertext{
+  color: white;
+  font-family: sans-serif;
+}
